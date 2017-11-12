@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render ExpensesSummary with multiple expenses 1`] = `
+<ExpensesSummary
+  expensesCount={3}
+  expensesTotal={1234}
+/>
+`;
+
+exports[`render ExpensesSummary with one expense 1`] = `
+<ExpensesSummary
+  expensesCount={1}
+  expensesTotal={123}
+/>
+`;
